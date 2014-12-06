@@ -1,11 +1,15 @@
-# [blank](https://github.com/ahmedelgabri/blank) Unit
+# [blank](https://github.com/ahmedelgabri/blank) unit
 
-Unit components for [blank](https://github.com/ahmedelgabri/blank)
+A generic component can be used with grid or separately for [blank](https://github.com/ahmedelgabri/blank)
 
-WIP
+## Instalation
+
+```sh
+$ bower install --save blank-css-unit
+```
 
 
 ### LICENSE & COPYRIGHT
-The source code and documentation for [blank](https://github.com/ahmedelgabri/blank) is licensed under the incredibly permissive [MIT License](http://opensource.org/licenses/MIT).
+[MIT License](http://opensource.org/licenses/MIT).
 
 Copyright © [Ahmed El Gabri](http://gabri.me) | [@ahmedelgabri](http://twitter.comahmedelgabri)
