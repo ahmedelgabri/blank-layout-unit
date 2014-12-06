@@ -1,0 +1,28 @@
+{
+  "name": "blank-css-unit",
+  "version": "0.1.0",
+  "description": "A generic component can be used with grid or separately for blank-css",
+  "main": "unit.scss",
+  "homepage": "https://github.com/ahmedelgabri/blank-layout-unit",
+  "authors": [
+    "Ahmed El Gabri <ahmed@gabri.me>"
+  ],
+  "keywords": [
+    "scss",
+    "sass",
+    "css",
+    "bem",
+    "oocss",
+    "blank",
+    "blank-css",
+    "unit"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
