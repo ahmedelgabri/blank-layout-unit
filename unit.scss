@@ -20,8 +20,8 @@ $basefont: if( global-variable-exists(basefont), $basefont, 16px );
 ==============================================================================*/
 
 .#{$namespace}unit {
-    font-size: $basefont;
     font-size: $basefont+"\9"; // IE8 & below hack cause they don't support rems & it's a must to reset the font size here.
+    font-size: $basefont;
     display: inline-block;
     width: 100%;
     position: relative;
