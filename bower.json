@@ -1,6 +1,6 @@
 {
   "name": "blank-css-unit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A generic component can be used with grid or separately for blank-css",
   "main": "unit.scss",
   "homepage": "https://github.com/ahmedelgabri/blank-layout-unit",
